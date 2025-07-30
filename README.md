@@ -63,7 +63,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 🚀 How to Run the Notebook
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/Dheeraj-1103/heart-disease-prediction.git
 cd heart-disease-prediction
 
 
